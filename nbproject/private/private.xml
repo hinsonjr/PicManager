@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Projects/hinsonjr/resources/js/app.js</file>
+            <file>file:/C:/Projects/hinsonjr/routes/api.php</file>
+            <file>file:/C:/Projects/hinsonjr/routes/web.php</file>
+            <file>file:/C:/Projects/hinsonjr/database/migrations/2020_09_27_103414_create_pics_table.php</file>
+            <file>file:/C:/Projects/hinsonjr/resources/js/components/AddPicForm.vue</file>
+            <file>file:/C:/Projects/hinsonjr/resources/views/pic.blade.php</file>
+            <file>file:/C:/Projects/hinsonjr/resources/views/layouts/app.blade.php</file>
+            <file>file:/C:/Projects/hinsonjr/resources/sass/pics.scss</file>
+            <file>file:/C:/Projects/hinsonjr/app/Http/Controllers/PicController.php</file>
+            <file>file:/C:/Projects/hinsonjr/resources/sass/app.scss</file>
+            <file>file:/C:/Projects/hinsonjr/app/Models/Pic.php</file>
+            <file>file:/C:/Projects/hinsonjr/app/Http/Controllers/ApiPicController.php</file>
+            <file>file:/C:/Projects/hinsonjr/resources/less/app.less</file>
+        </group>
+    </open-files>
+</project-private>

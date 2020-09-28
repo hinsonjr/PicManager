@@ -23,4 +23,5 @@ Route::get('/page/about-us/{id}', function () {
 	
 });
 
-Route::get('/pics','App\Http\Controllers\BetterRxPicsController@index');
+Route::get('/pics','App\Http\Controllers\PicController@index');
+Route::post('/pics/store','App\Http\Controllers\PicController@store');
